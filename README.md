@@ -1,4 +1,4 @@
-#Actividad 2eva Git
+# Actividad 2eva Git
 
 ## Descripción
 Este es un proyecto web de ejemplo desarrollado para practicar el uso de Git y GitHub.
